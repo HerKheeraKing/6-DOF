@@ -26,6 +26,8 @@
 → sway, surge, heave, pitch, roll, and yaw
 
 🛠️ Auto-adjusts for clarity: If the movements feel too subtle, the code automatically recalibrates to make the motion more noticeable.
+
+Tools: SolidWorks, Arduino, Fabrication
 <br><br>
 
 ## Demo Videos  

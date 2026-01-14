@@ -1,4 +1,5 @@
-# 6-DOF Mini Flight Simulator
+<h1 align="center">6-DOF Mini Flight Simulator</h1>
+
 ##### <p align="center"> Ever wondered how theme park rides or flight simulators make your body feel like you're moving, even when you're not?
 </p>
 
